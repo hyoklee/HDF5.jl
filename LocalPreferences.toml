@@ -1,4 +1,3 @@
 [HDF5]
 libhdf5 = "/tmp/lib/libhdf5.so"
 libhdf5_hl = "/tmp/lib/libhdf5_hl.so"
-o
